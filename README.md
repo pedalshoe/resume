@@ -1,6 +1,6 @@
 # Christopher Mikal Logan – Resume & Cover Letter
 
-This repository contains the resume of Christopher Mikal Logan, a senior software engineer and architect with extensive experience in AI, machine learning, cloud platforms, and enterprise systems.
+This repository contains the resume of Christopher Mikal Logan, a senior software engineer and architect with extensive experience in backend, embedded, AI, machine learning, cloud platforms, and enterprise systems.
 
 ## 📄 About the Resume
 
