@@ -4,9 +4,10 @@ This repository contains the resume of Christopher Mikal Logan, a senior softwar
 
 ## 📄 About the Resume
 
-The resume outlines over two decades of leadership in software development, including roles at BNY Mellon, Burleon Tech, and consulting via Worlwin LLC. Key areas of expertise include:
+The resume outlines over two decades of leadership in software development, including roles at Raytheon, Technology Service Corporation, BNY Mellon, Burleon Tech, and consulting via Worlwin LLC. Key areas of expertise include:
 
 - Generative AI and Machine Learning (LLMs, RAG, PyTorch, TensorFlow)
+- Optics and Optics system software
 - Cloud Infrastructure (AWS, Azure, Akamai CDN)
 - Financial Systems, IoT, and Medical Devices
 - Full-stack Development (Java, Python, C++, JavaScript, DB2, MySQL)
