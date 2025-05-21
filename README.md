@@ -27,11 +27,9 @@ Christopher Mikal Logan
 
 ## 📬 Contact
 
-- **Phone:** 347-583-1419  
-- **Email:** [Your Email Here]  
-- **LinkedIn:** [Your LinkedIn Profile Here]
+- **Phone:** 347-583-1419
+- **Email:** chrismikall@gmail.com
+- **LinkedIn:** https://linkedin.com/in/chrismikall
 
 ---
-
-> *This cover letter is intended to be customized per role and company. Replace placeholders with job-specific information as needed.*
 
